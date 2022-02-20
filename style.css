@@ -25,6 +25,13 @@
      background-color: rgb(10, 180, 138);
      background-size: cover;
  }
+ .three{
+     border: #006eff;
+     font-size: 50px;
+     font-size: 60%;
+     background-color: goldenrod;
+     border: 5px inset green;
+ }
  .cox{
      width: 60%;
      height: 30%;

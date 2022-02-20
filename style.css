@@ -1,6 +1,4 @@
-.body{
-    background-color: #006eff;
- }
+
  h1{
      color: rgb(245, 235, 235);
     
@@ -10,6 +8,30 @@
  }
  img{
      width: 100%;
+ }
+ .amjad{
+     background-color: goldenrod;
+     color: #af0b99;
+     font-size: 60px;
+     margin: 1px;
+     float: left;
+     border: 5px solid #af0b99;
+    
+ 
+ }
+ .welcome{
+     font-size: 80px;
+     background-color: goldenrod;
+     background-size: 100%;
+     font-style: italic;
+     text-align: center;
+     color: #af0b99;
+ }
+ .amjadimg{
+     margin:2px 10px 2px 10px;
+     width: 45%;
+     border: 5px solid purple;
+     
  }
  .fastdiv{
      border: 5px outset red;
